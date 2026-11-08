@@ -4,8 +4,8 @@
 ---
 
 ### Student Submission Details
-- **Student Name**: [Your Name Here]
-- **BITS Student ID**: [Your BITS Student ID]
+- **Student Name**: Dhanush P
+- **BITS Student ID**: 2026aj05570
 - **Course**: Machine Learning
 - **Program**: M.Tech (AIML)
 - **Submission Date**: 08-November-2026
@@ -15,7 +15,7 @@
 ## 1. Mandatory Submission Links
 
 ### 1.1 GitHub Repository Link
-**Repository URL**: [https://github.com/dhanush-bits/connect4-ml-assignment](https://github.com/dhanush-bits/connect4-ml-assignment) *(Replace with your GitHub repo URL)*
+**Repository URL**: [https://github.com/zoroyadav/Connect4-ML-Assignment](https://github.com/zoroyadav/Connect4-ML-Assignment)
 
 **Repository Contents**:
 - `app.py`: Streamlit interactive web application
@@ -31,7 +31,7 @@
   - `svm.joblib`
 
 ### 1.2 Live Streamlit App Link
-**Streamlit App URL**: [https://connect4-ml-classifier.streamlit.app](https://connect4-ml-classifier.streamlit.app) *(Replace with your deployed Streamlit URL)*
+**Streamlit App URL**: [https://connect4-ml-classifier.streamlit.app](https://connect4-ml-assignment-baq7d5sryrcass8wxpy6vs.streamlit.app/)
 
 ---
 
@@ -78,7 +78,7 @@ The objective of this assignment is to:
 ---
 
 ### c. GitHub Repository Link
-[https://github.com/dhanush-bits/connect4-ml-assignment](https://github.com/dhanush-bits/connect4-ml-assignment)
+[https://github.com/zoroyadav/Connect4-ML-Assignment](https://github.com/zoroyadav/Connect4-ML-Assignment)
 
 ---
 
@@ -110,7 +110,7 @@ The objective of this assignment is to:
 
 ---
 
-### Overall, Winner for your dataset?
+### Overall, Winner for the dataset?
 
 **Support Vector Machine (SVM)** is the clear **winner** for the Connect-4 dataset.
 
