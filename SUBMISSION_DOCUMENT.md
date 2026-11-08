@@ -35,14 +35,6 @@
 
 ---
 
-## 2. BITS Virtual Lab Execution Proof
-
-*(Paste your ONE full-screen screenshot showing execution of the assignment inside the BITS Virtual Lab environment here)*
-
-> **[INSERT SCREENSHOT OF BITS VIRTUAL LAB EXECUTION HERE]**
-
----
-
 ## 3. GitHub README Content
 
 ### a. Problem Statement
