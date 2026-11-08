@@ -41,8 +41,7 @@ The objective of this assignment is to:
 
 ## c. Github Repository Link
 
-- **GitHub Repository**: [https://github.com/dhanush-bits/connect4-ml-assignment](https://github.com/dhanush-bits/connect4-ml-assignment)
-*(Replace with your personal repository URL upon pushing)*
+- **GitHub Repository**: [https://github.com/zoroyadav/Connect4-ML-Assignment](https://github.com/zoroyadav/Connect4-ML-Assignment)
 
 ### Repository Directory Structure
 ```text
